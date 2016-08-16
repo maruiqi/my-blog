@@ -1,13 +1,7 @@
 my-blog
 =======
-
-<<<<<<< HEAD
 CI status: ![Build Status](https://travis-ci.org/maruiqi/my-blog.png?branch=master)
-=======
-CI status: ![Build Status](https://travis-ci.org/js-demos/my-blog.png?branch=master)
 
-A basic es6 project, which includes:
->>>>>>> 382f67caef53fb98f56806aa73a3f16972e2232f
 
 My-Blog use express+react
 1. webpack
